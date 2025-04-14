@@ -7,9 +7,9 @@ const port = 8080;
 
 // Replace these with your Cloud SQL values
 const db = mysql.createConnection({
-  host: 'CLOUD_SQL_HOST',
-  user: 'YOUR_USER',
-  password: 'YOUR_PASSWORD',
+  host: '34.172.117.208',
+  user: 'taskuser',
+  password: 'taskpass',
   database: 'taskdb'
 });
 

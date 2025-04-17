@@ -1,4 +1,3 @@
-
 # ☁️ Cloud-Tasker - Task Management App on GCP
  
  CloudTasker is a scalable, cloud-native Task Management application built using Google Cloud Platform (GCP) services. It allows users to create, update, and manage daily tasks with real-time availability, automatic scaling, and performance monitoring.
